@@ -1,0 +1,9 @@
+{
+	"name": "Tokyo-olympics-analysis",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aa9f750f-ec9a-4fce-9d05-ed11548d5371",
+		"tenantId": "e3ac877a-8939-4447-b985-6a4de4344947"
+	}
+}
